@@ -10,7 +10,7 @@
 - Task: `DAY05-MOT17-09-A-2A202603178`
 - Job CVAT local: http://localhost:8081/tasks/22/jobs/21
 - Dữ liệu đã chuẩn bị: 150 frame 1920×1080, CVAT frame 0–149; label `person`, Rectangle, dùng chế độ Track khi gán.
-- Email: không cung cấp
+- Email: [26ai.ducncn@vinuni.edu.vn](mailto:26ai.ducncn@vinuni.edu.vn)
 - Link repository: https://github.com/ducnguyen-ai/K5-L2-Day05-NguyenCaoNgocDuc-2A202603178-MOTTracking
 - Tổng thời gian làm bài: khoảng **120 phút**, tự ước lượng.
 - Giờ bắt đầu / kết thúc: không ghi lại chính xác.
